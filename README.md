@@ -29,6 +29,7 @@ let me = {
 >> [Twitter](www.twitter.com/ayitinya)  
 >> [Github](www.github.com/ayitinya)  
 >> Email: ayitinya@outlook.com  
+>> [Portfolio Website](www.ayitinya.me)
 >> I am everywhere as @ayitinya 😅
 <!---
 ayitinya/ayitinya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
