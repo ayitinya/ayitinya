@@ -25,11 +25,11 @@ let me = {
 ```
 
 > #### You can Contact me on ...
->> [LinkedIn Profile](www.linkedin.com/ayitinya)  
->> [Twitter](www.twitter.com/ayitinya)  
->> [Github](www.github.com/ayitinya)  
+>> [LinkedIn Profile](https://linkedin.com/in/ayitinya)  
+>> [Twitter](https://twitter.com/ayitinya)  
+>> [Github](https://github.com/ayitinya)  
 >> Email: ayitinya@outlook.com  
->> [Portfolio Website](www.ayitinya.me)
+>> [Portfolio Website](https://ayitinya.me)
 >> I am everywhere as @ayitinya 😅
 
 ![Ayitinya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayitinya&show_icons=true&bg_color=00000000)
