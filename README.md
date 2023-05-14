@@ -1,9 +1,6 @@
 ## Hello 
 > I am ***Rudy Ayitinya Sulley*** 😊
-### I am an _Electrical Engineering_ student at the Kwame Nkrumah University of Ghana 🎓
-### I am interested in learning Machine Learning and Artificial intelligence 🤖
-### I write code in Python and Javascript, Typescript too though😉 🧑‍💻
-### I'm currently developing my web developing skills using django and vuejs
+Bios are boring, just check out my repositories
 
 ```py
 class Person:
