@@ -1,25 +1,11 @@
-## Hello 
+## Statically Typed Languages For The Win
+
+## I Love Kotlin 💖
+
+I Still write python though
+
 > I am ***Rudy Ayitinya Sulley*** 😊
 Bios are boring, just check out my repositories
-
-```py
-class Person:
-    def __init__(self, first_name, last_name):
-        self.first_name = first_name
-        self.last_name = last_name
-
-if __main__ == "__name__":
-    me = Person("Rudy", "Sulley")
-```
-
-```js
-let me = {
-    technologies: {
-        "vuejs",
-        "Django"
-    }
-}
-```
 
 > #### You can Contact me on ...
 >> [LinkedIn Profile](https://linkedin.com/in/ayitinya)  
